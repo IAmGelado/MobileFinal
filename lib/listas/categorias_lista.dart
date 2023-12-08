@@ -1,0 +1,1 @@
+List<String> estilosLista = ['Todos','Estilo Livre', 'Borboleta', 'Costas', 'Medley', 'Peito'];

@@ -1,0 +1,1 @@
+List<String> provasLista = ['Todos','50m', '100m', '200m', '400m', '800m', '1500m'];

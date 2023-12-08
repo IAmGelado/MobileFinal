@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719707548347",
+    "project_id": "trabalhofaculdadev2",
+    "storage_bucket": "trabalhofaculdadev2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719707548347:android:8201a4e6226f51995c579e",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_faculdade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvmyE2pCzbcomT3eH3aMHhjtlM8IqCW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
